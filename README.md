@@ -1,3 +1,3 @@
-# Project Title Goes Here
+# Comp 128 Priority Queue Activity
 
-Info about your project goes here
+Instructions are [here](https://docs.google.com/document/d/1ZJmLaDr4ncqp9lbiSFcuFHTTNwVLsjKaY77Ji6UfCLs/edit?usp=sharing)
